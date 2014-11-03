@@ -11,6 +11,7 @@ public class helloworld {
 @Test
 	public void testecho(){
 		System.out.println("Hello world!");
+		System.out.println("Wested time!");
 	}
 	
 
